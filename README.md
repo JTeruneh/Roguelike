@@ -1,3 +1,3 @@
-# Weed Strike Roguelike
+# The Tomb of the Sword
 
-Weed Strike is a simple roguelike game for teaching/demonstration purposes.
+A class project about Stormbringer.
