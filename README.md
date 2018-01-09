@@ -1,3 +1,3 @@
 # The Tomb of the Sword
 
-A class project about Stormbringer.
+Survive your exploration of the decrepit crypt, so that you might discover what lies in its dark nadir . . .
